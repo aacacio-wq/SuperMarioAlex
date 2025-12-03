@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 7ae95c86cc1273741bc601ba6251b144
+guid: 68f56485439dbaa4294dc249766bc657
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7186996321364192929
-    second: Coins1_0
-  - first:
-      213: -192747638961780876
-    second: Coins1_1
-  - first:
-      213: -8637522762461814063
-    second: Coins1_2
+      213: -6187836840014624151
+    second: World_1-1_SMB_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Coins1_0
+      name: World_1-1_SMB_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 15
-        height: 18
+        width: 3584
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,52 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1aea3f073175db360800000000000000
-      internalID: 7186996321364192929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Coins1_1
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 1
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47743682b09335df0800000000000000
-      internalID: -192747638961780876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Coins1_2
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 1
-        width: 6
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d2ec14afca512880800000000000000
-      internalID: -8637522762461814063
+      spriteID: 96a4ad6bd23602aa0800000000000000
+      internalID: -6187836840014624151
       vertices: []
       indices: 
       edges: []
@@ -185,9 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Coins1_0: 7186996321364192929
-      Coins1_1: -192747638961780876
-      Coins1_2: -8637522762461814063
+      World_1-1_SMB_0: -6187836840014624151
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
